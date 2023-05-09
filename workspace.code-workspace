@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\program\\app_rete\\pagina retencion oficial\\js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "boostra ejempplo"
+	}
+}

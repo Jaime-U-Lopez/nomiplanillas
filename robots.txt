@@ -1,0 +1,17 @@
+
+
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+
+
+Disallow: /imagenes/
+Allow: /imagenes/2020/
+
+Disallow: /contact/
+Disallow: /login/
+Allow:/image/?ND
+
+
+Sitemap: http://www.nomiplanillas.com/sitemap.xml
